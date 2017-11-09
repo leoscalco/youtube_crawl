@@ -1,6 +1,6 @@
 # Youtube Search Crawl
 
-Project used for crawling tracking with Python using BeautifulSoup.
+Project used for teaching how to crawl with Python and BeautifulSoup.
 
 ## Getting Started
 
